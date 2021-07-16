@@ -11,3 +11,4 @@
 ## Table of Contents
 
 1. **[JavaScript](./javascript)**
+2. **[Angular](./angular)**
