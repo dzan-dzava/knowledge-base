@@ -9,3 +9,5 @@
 </h1>
 
 ## Table of Contents
+
+1. **[JavaScript](./javascript)**
