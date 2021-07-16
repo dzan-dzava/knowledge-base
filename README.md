@@ -12,3 +12,4 @@
 
 1. **[JavaScript](./javascript)**
 2. **[Angular](./angular)**
+3. **[Design Principles](./design-principles)**
