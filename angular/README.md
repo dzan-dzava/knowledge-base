@@ -9,3 +9,11 @@
 </h1>
 
 ## Table of Contents
+
+* [Performance Optimization](#Performance-Optimization)
+
+---
+
+## Performance Optimization
+
+* [Angular Performance Optimization Techniques](https://medium.com/swlh/angular-performance-optimization-techniques-5b7ca0808f8b)
