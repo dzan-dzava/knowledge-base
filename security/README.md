@@ -10,7 +10,7 @@
 
 ## Table of Contents
 
-* **[Cross Site Scripting (XSS)](#Cross-Site-Scripting-(XSS))**
+* **[Cross Site Scripting (XSS)](#Cross-Site-Scripting-XSS)**
 * **[SQL Injection](#SQL-Injection)**
 
 ---
