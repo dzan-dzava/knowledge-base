@@ -13,4 +13,5 @@
 1. **[JavaScript](./javascript)**
 2. **[Angular](./angular)**
 3. **[Design Principles](./design-principles)**
-3. **[RxJS](./rxjs)**
+4. **[Security](./security)**
+5. **[RxJS](./rxjs)**
